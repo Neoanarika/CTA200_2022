@@ -1,0 +1,24 @@
+    1  ls
+    2  /cita/local/bin/passwd
+    3  exit
+    4  ls
+    5  cd ..
+    6  ls
+    7  cd m
+    8  cd murray
+    9  ls
+   10  mv Hellow_world.x Hello_world.x
+   11  gcc Hello_world_ang.c -o Hello_world_ang.x
+   12  .\Hello_world_ang.x
+   13  .\Hello_world_ang.x > output_c.txt
+   14  . \Hello_world_ang.x > output_c.txt
+   15  .
+   16  ls
+   17  vi output_c.txt 
+   18  ./Hello_world_ang.x 
+   19  ./Hello_world_ang.x  > output_c.txt 
+   20  python3 Hello_world_ang.py > output_python.txt
+   21  python Hello_world_ang.py > output_python.txt
+   22  ls
+   23  vi output_python.txt 
+   24  history > history.txt
